@@ -7,6 +7,4 @@ python-dotenv
 langchain_google_genai
 langchain-openai
 langgraph
-
-pygraphviz
-graphviz
+pydantic
