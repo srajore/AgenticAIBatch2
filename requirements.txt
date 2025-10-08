@@ -8,3 +8,5 @@ langchain_google_genai
 langchain-openai
 langgraph
 pydantic
+bs4
+chromadb
